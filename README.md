@@ -1,4 +1,4 @@
-apidoc
+[WIP]apidoc
 ======
 
-Generates API Documents which can try API request interactively on the documents.
+Generates API Documents which can try API request interactively on a document, from JSON Schema.
